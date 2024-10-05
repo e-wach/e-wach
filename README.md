@@ -1,54 +1,37 @@
-<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Ting Wang</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
-
-<br />
-
-<a href="https://www.linkedin.com/in/tingwangchen/?locale=es_ES" alt="LinkedIn" target="_blank">
-  <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" height="40" />
-</a>
-<a href="mailto:e_wangting@hotmail.com">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" height="30" />
-</a>
-
-<br />
-<br />
-
-Hi, I'm Ting, a data student from Valencia, Spain.
-
-<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
+<!-- Heading -->
+<h3 align="center">Hello! I'm Ting<img src = "https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width = 30px><br><br>I'm a Big Data and Cloud student at EDEM</h3>
 
 
-<!-- blog_plugin_start -->
 
-<!-- blog_plugin_end -->
+ <h2 align="center">
 
-<!-- github_plugin_start -->
+[![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white=white&link=mail@e_wangting@hotmail.com)](mailto:mail@e_wangting@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tingwangchen/)](https://www.linkedin.com/in/tingwangchen/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_elenitka/)](https://www.instagram.com/_elenitka/)
 
-## ⛳️ Project Release
+## About me
 
-- <a href='url' target='_blank'>name</a> - date
-  <br/> task?
+<br>
 
-<!-- github_plugin_end -->
+## Languages & Tools (learning)
+ 
 
-<!-- wakatime_plugin_start -->
+<br>
 
-## 🌗 Weekly Development Breakdown
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+ <p align="center" >   
+ <img src ="https://github-readme-streak-stats.herokuapp.com/?user=e-wach&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=material-palenight">
+  <br>
+  <img src ="https://github-readme-stats.vercel.app/api?username=e-wach&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=material-palenight">  
+  <br>
+  </p>
+<br>
+<br>
 
+**Learning Cycle**<br>
 
-<!-- wakatime_plugin_end -->
-
-**Languages and Tools:**
-
-<p>
-<img src="https://www.svgrepo.com/show/376344/python.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-typescript.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
-
-<!-- badge_plugin_start -->
-
----
-
-<a href="https://github.com/blackcater" alt="https://github.com/blackcater"><img src="https://img.shields.io/static/v1?style=for-the-badge&label=CREATED%20BY&message=blackcater&color=000000"></a>
-
-
-<!-- badge_plugin_end -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="5%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="5%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="5%" alt="It's working but you don't know how!"/><br>
