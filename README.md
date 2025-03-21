@@ -8,8 +8,9 @@
 [![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white=white&link=mail@e_wangting@hotmail.com)](mailto:mail@e_wangting@hotmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tingwangchen/)](https://www.linkedin.com/in/tingwangchen/)
 
-## About me
-Studied Economics, specialised in sustainability and climate change. Work as a EU-funded Project Manager, and now I'm here <img src = "https://media.tenor.com/nPJiULZnc-8AAAAi/github-sticker.gif" width = 40px>
+## About me <img src = "https://media.tenor.com/nPJiULZnc-8AAAAi/github-sticker.gif" width = 40px>
+
+I have a bachelor’s degree in Economics with a specialization in sustainability and professional experience in EU-funded project management. Currently, I’m pursuing a master’s in Big Data & Cloud as I transition my career into the data world. 🚀 
 <br>
 
 ## Languages & Tools I'm currently learning <img src = "https://i.pinimg.com/originals/3b/4c/b4/3b4cb4b20017c7036583d70b9a17ff95.gif" width = 50px>
